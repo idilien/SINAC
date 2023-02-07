@@ -40,7 +40,7 @@ export default function Home() {
               </div>
           </section>
 
-           <section>
+           <section className='container'>
            <h2 className='heading'>Blog</h2>
           
                         <div className={styles.grid}>

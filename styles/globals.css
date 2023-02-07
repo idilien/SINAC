@@ -24,7 +24,7 @@ img {
 }
 [class*="container"], 
 main {
-  width: min(95%, 120rem);
+  width: min(95%, 130rem);
   margin: 3rem auto;
 }
 [class*="heading"] {
