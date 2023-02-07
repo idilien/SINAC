@@ -17,7 +17,7 @@ export default function Home() {
             description={'Parques Nacionales Costa Rica'}
         >
            <main className='container'>
-                <h2 className='heading'>Parques Nacionales</h2>
+                <h2 className='heading'>Entradas Parques Online</h2>
 
                 <div className={styles.grid}>
                                 {ListParks.map(park => (
@@ -50,16 +50,9 @@ export default function Home() {
                                         post={post}
                                         />
                                 ) )}
-
                         </div>
-
-           </section>
-        
+           </section>   
         </Layout>
-   
-</>
-          
-       
-          
+</>     
   )
 }
