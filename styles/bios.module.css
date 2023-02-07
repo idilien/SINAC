@@ -7,6 +7,10 @@
     background-position: 50%;
 }
 
+.grid{
+margin:0  2rem;
+}
+
 @media (min-width: 1200px) { 
     .grid{
         display: grid;

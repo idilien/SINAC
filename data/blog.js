@@ -4,7 +4,7 @@ export const Block = [
         'title':'Sistema de Reconocimientos Ambientales (SIREA)', 
         'date':'22 de septiembre 2022', 
         'article':'El Sistema de Reconocimientos Ambientales es una iniciativa del Ministerio de Ambiente y Energía (MINAE), que tiene como propósito integrar, bajo una serie de requerimientos técnicos, los reconocimientos de carácter ambiental que existan en el país',
-        'image':'blog2'
+        'image':'colibri'
     },
     {
         'id': '2',
@@ -32,7 +32,7 @@ export const Block = [
         'title':'Sistema de Reconocimientos Ambientales (SIREA)', 
         'date':'22 de septiembre 2022', 
         'article':'El Sistema de Reconocimientos Ambientales es una iniciativa del Ministerio de Ambiente y Energía (MINAE), que tiene como propósito integrar, bajo una serie de requerimientos técnicos, los reconocimientos de carácter ambiental que existan en el país',
-        'image':'blog2'
+        'image':'parrot'
     },
     {
         'id': '6',

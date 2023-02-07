@@ -18,7 +18,7 @@ export const ListParks = [
         'name':'Manuel Antonio', 
         'description':'Un puente entre el mar y la tierra. Recorrer senderos rodeados de fauna silvestre y descansar en paradisiacas playas son opciones que prometen cautivar sus sentidos', 
         'price':'15',
-        'image':'manuelantonioimg'
+        'image':'beach2'
     },
     {
         'id': '4',
@@ -30,7 +30,7 @@ export const ListParks = [
     {
         'id': '5',
         'name':'La Cangreja', 
-        'description':'Conservando y usando sosteniblemente Nuestro Tesoro Natural con la gente y comunidades! Sitio de gran belleza escénica y panorámica, que según una historia indígena la montaña asemeja un Cangrejo y las lomas de sus lados las tenazas del mismo', 
+        'description':'Conservando y usando sosteniblemente Nuestro Tesoro Natural con la gente y comunidades! Sitio de gran belleza escénica y panorámica, que según una historia indígena la montaña asemeja un Cangrejo', 
         'price':'15',
         'image':'lacangrejaimg'
     },

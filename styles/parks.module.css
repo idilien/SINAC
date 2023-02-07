@@ -1,5 +1,6 @@
 .park {
-    display: grid;
+   
+    /* display: grid; */
     grid-template-columns: 2fr 3fr;
     gap: 1rem;
     align-items: center;
@@ -15,6 +16,7 @@
     color: var(--primary);
 }
 .description {
+    height: 13rem;
     display: -webkit-box;
     -webkit-box-orient: vertical;
     -webkit-line-clamp: 6;
